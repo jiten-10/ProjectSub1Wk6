@@ -1,0 +1,1 @@
+Starting point is HomePage.html, second page is ContractForm.html and the last page Is the Resume.html
